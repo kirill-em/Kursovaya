@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\repositories\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\repositories\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\data\\zooparkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\data\\zooparkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\controllers\\employeeservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\controllers\\employeeservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\repositories\\employeeservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\repositories\\employeeservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\models\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\models\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|g:\\2_kyrs_part_2\\\u0431\u0434\\coursework_on_database\\back\\back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F946254-507A-48F8-A074-F173641C4AA1}|back\\back.csproj|solutionrelative:back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalRepository.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Repositories\\AnimalRepository.cs",
+              "RelativeDocumentMoniker": "back\\Repositories\\AnimalRepository.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Repositories\\AnimalRepository.cs",
+              "RelativeToolTip": "back\\Repositories\\AnimalRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:33:43.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Repositories\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "back\\Repositories\\ServiceRepository.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Repositories\\ServiceRepository.cs",
+              "RelativeToolTip": "back\\Repositories\\ServiceRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:34:21.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Controllers\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\AnimalsController.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Controllers\\AnimalsController.cs",
+              "RelativeToolTip": "back\\Controllers\\AnimalsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:34:43.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\EmployeesController.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "back\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:34:52.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeServicesController.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Controllers\\EmployeeServicesController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\EmployeeServicesController.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Controllers\\EmployeeServicesController.cs",
+              "RelativeToolTip": "back\\Controllers\\EmployeeServicesController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwCgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:38:51.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\ServicesController.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "back\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:35:03.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZooParkDbContext.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Data\\ZooParkDbContext.cs",
+              "RelativeDocumentMoniker": "back\\Data\\ZooParkDbContext.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Data\\ZooParkDbContext.cs",
+              "RelativeToolTip": "back\\Data\\ZooParkDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:33:05.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "back\\Models\\Service.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Models\\Service.cs",
+              "RelativeToolTip": "back\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:29:43.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Program.cs",
+              "RelativeDocumentMoniker": "back\\Program.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Program.cs",
+              "RelativeToolTip": "back\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:21:30.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "back\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "back\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:34:14.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeServiceRepository.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Repositories\\EmployeeServiceRepository.cs",
+              "RelativeDocumentMoniker": "back\\Repositories\\EmployeeServiceRepository.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Repositories\\EmployeeServiceRepository.cs",
+              "RelativeToolTip": "back\\Repositories\\EmployeeServiceRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:38:19.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Models\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "back\\Models\\EmployeeService.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Models\\EmployeeService.cs",
+              "RelativeToolTip": "back\\Models\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:31:03.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "back\\Models\\Employee.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Models\\Employee.cs",
+              "RelativeToolTip": "back\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:29:34.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "back\\Models\\Animal.cs",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\Models\\Animal.cs",
+              "RelativeToolTip": "back\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:29:20.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\appsettings.json",
+              "RelativeDocumentMoniker": "back\\appsettings.json",
+              "ToolTip": "G:\\2_kyrs_part_2\\\u0411\u0434\\coursework_on_database\\back\\back\\appsettings.json",
+              "RelativeToolTip": "back\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T16:31:39.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
